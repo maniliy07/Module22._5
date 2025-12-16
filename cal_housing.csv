@@ -1,4 +1,4 @@
-longitude,latitude,housingMedianAge,totalRooms,totalRooms,population,households,medianIncome,medianHouseValue
+longitude,latitude,housingMedianAge,totalRooms,totalBedrooms,population,households,medianIncome,medianHouseValue
 -122.23,37.88,41,880,129,322,126,8.3252,452600
 -122.22,37.86,21,7099,1106,2401,1138,8.3014,358500
 -122.24,37.85,52,1467,190,496,177,7.2574,352100
